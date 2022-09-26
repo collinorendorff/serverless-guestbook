@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = '';
+const apiUrl = 'https://us-east.functions.appdomain.cloud/api/v1/web/Orendorff%20Inc_dev/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
